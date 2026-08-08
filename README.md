@@ -19,7 +19,7 @@ Senior QA Engineer com **13 anos de experiência** entregando qualidade em produ
 - 🌍 Experiência internacional: treinamentos na sede da Tricentis em **Viena (2016 e 2018)** e projeto na **Espanha (2018)**
 - 🎓 **ISTQB CTFL** e **CTFL-AT**, pós-graduado em **Gestão Ágil de Projetos** pela CESAR School
 - 🏃 Treinando para minha próxima meia maratona
-- ⚽ Curto futebol e não perco a chance de ir ao estádio quando dá
+- ⚽ Curto futebol e não perco a chance de ir ao estádio quando possível
 
 ---
 
@@ -52,21 +52,34 @@ Senior QA Engineer com **13 anos de experiência** entregando qualidade em produ
 
 ---
 
-## 🏅 Certificações
+## 🧭 Trajetória
 
-- ISTQB Certified Tester Foundation Level (CTFL)
-- ISTQB Certified Tester Foundation Level – Agile Tester (CTFL-AT)
+- **2023 – atual** — Senior QA Engineer, responsável pela estratégia de testes com atuação transversal entre times
+- **2020 – 2023** — Senior QA Engineer, projeto de Financeiro e Meios de Pagamento
+- **2019 – 2020** — Test Automation Engineering Specialist, liderança técnica em Agronegócio e Energia
+- **2016 – 2019** — Software Engineering Sr. Analyst, referência técnica em Tricentis Tosca (treinamentos em Viena e projeto na Espanha)
+- **2013 – 2016** — Software Engineering Analyst, automação de testes com RFT (Rational Functional Tester)
+- **2012 – 2013** — Tester Associate, início da carreira em testes
+---
 
-## 🎓 Formação
+## 🎓 Formação & Certificações
 
+**Formação acadêmica**
 - Pós-graduação em Gestão Ágil de Projetos — CESAR School (2018–2020)
 - Graduação em Sistemas de Informação — UNINABUCO (2008–2011)
 
+**Certificações**
+- ISTQB Certified Tester Foundation Level (CTFL)
+- ISTQB Certified Tester Foundation Level – Agile Tester (CTFL-AT)
+- Tricentis Tosca Automation Specialist Level 1
+- Microsoft Technology Associate (MTA) 98-364 – Database Administration Fundamentals
+
+**Cursos**
+- DTAR - Descomplicando Testes de API Rest
+- PTQS – Programa de Testes e Qualidade de Software
 ---
 
 ## 📫 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/washingtonsilvaqa)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:washington125@gmail.com)
-
-*"Qualidade não é um ato, é um hábito."*
