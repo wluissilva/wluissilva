@@ -54,12 +54,12 @@ Senior QA Engineer com **13 anos de experiência** entregando qualidade em produ
 
 ## 🧭 Trajetória
 
-- **2023 – atual** — Senior QA Engineer, responsável pela estratégia de testes com atuação transversal entre times
-- **2020 – 2023** — Senior QA Engineer, projeto de Financeiro e Meios de Pagamento
-- **2019 – 2020** — Test Automation Engineering Specialist, liderança técnica em Agronegócio e Energia
-- **2016 – 2019** — Software Engineering Sr. Analyst, referência técnica em Tricentis Tosca (treinamentos em Viena e projeto na Espanha)
-- **2013 – 2016** — Software Engineering Analyst, automação de testes com RFT (Rational Functional Tester)
-- **2012 – 2013** — Tester Associate, início da carreira em testes
+- **2023 – atual** — Senior QA Engineer, atuação transversal entre times em estratégia e automação de testes, próximo aos times de desenvolvimento e negócio
+- **2020 – 2023**  — Senior QA Engineer, projeto de Financeiro e Meios de Pagamento
+- **2019 – 2020**  — Test Automation Engineering Specialist, liderança técnica em Agronegócio e Energia
+- **2016 – 2019**  — Software Engineering Sr. Analyst, referência técnica em Tricentis Tosca (treinamentos em Viena e projeto na Espanha)
+- **2013 – 2016**  — Software Engineering Analyst, automação de testes com RFT (Rational Functional Tester)
+- **2012 – 2013**  — Tester Associate, início da carreira em testes
 ---
 
 ## 🎓 Formação & Certificações
@@ -83,3 +83,4 @@ Senior QA Engineer com **13 anos de experiência** entregando qualidade em produ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/washingtonsilvaqa)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:washington125@gmail.com)
+[![Download CV](https://img.shields.io/badge/📄_Download_CV-17233A?style=for-the-badge)](./CV.pdf)
