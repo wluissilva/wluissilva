@@ -83,4 +83,4 @@ Senior QA Engineer com **13 anos de experiência** entregando qualidade em produ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/washingtonsilvaqa)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:washington125@gmail.com)
-[![Download CV](https://img.shields.io/badge/📄_Download_CV-17233A?style=for-the-badge)](./CV.pdf)
+[![Download CV](https://img.shields.io/badge/📄_Download_CV-17233A?style=for-the-badge)](./Washington_Silva_CV.pdf)
